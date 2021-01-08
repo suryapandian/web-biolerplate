@@ -1,4 +1,4 @@
-###A simpler bioler plate code for web server in Go!
+### A simpler bioler plate code for web server in Go!
 
 This includes:
 - a basic ping API with a simple test case.
@@ -7,7 +7,7 @@ This includes:
 - pre-commit hook to ensure clean code.
 
 
-##Running the application
+## Running the application
 
 ```
  docker build -t web .  
